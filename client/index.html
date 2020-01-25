@@ -17,7 +17,7 @@
 <div>
 
     <div id="instructions"><p>Pour mesurer une distance, appuyer sur le bouton en haut a droite de la carte puis
-        sélectionner deux points sur la carte.<br>Double-cliquer pour arrêter la mesure.</p></div>
+        sélectionner deux points sur la carte.<br>Cliquer de nouveau sur le bouton pour arrêter la mesure.</p></div>
 
     <!-- Zone pour l'insertion de la carte OSM via Leaflet -->
     <div id="map" style="margin-bottom:1.33em"></div>
@@ -88,7 +88,7 @@
             }
         };
 
-        // Envoi de la requête Ajax pour la récupération de la liste des lieux insolites
+        // Envoi de la requête Ajax pour la récupération de la liste des lieux
         xhr.open('GET', '/service/countries/', true);
         xhr.send();
     }

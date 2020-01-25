@@ -54,7 +54,6 @@
     <index id="17" parent="6" name="sqlite_autoindex_countries_1">
       <NameSurrogate>1</NameSurrogate>
       <ColNames>wp</ColNames>
-      <ColumnCollations></ColumnCollations>
       <Unique>1</Unique>
     </index>
     <key id="18" parent="6">

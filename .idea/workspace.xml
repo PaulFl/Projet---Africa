@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e25fb2e0-c698-4d7e-8081-8862020015ea" name="Default Changelist" comment="" />
+    <list default="true" id="e25fb2e0-c698-4d7e-8081-8862020015ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recette WEB.gslides" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restitution Web.gslides" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cahier-des-charges-fonctionnel.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bc6f4fc2-c9de-4dae-addf-58fc4cf82a0d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bc6f4fc2-c9de-4dae-addf-58fc4cf82a0d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/africa.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pays_save.sqlite" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +66,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VbnVMWQ5GAhXoa8yTNLCcY3wmU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -131,9 +150,9 @@
       <list>
         <item itemvalue="Python.serveur" />
         <item itemvalue="Python.serveur" />
-        <item itemvalue="Python.init_db" />
-        <item itemvalue="Python.init_db" />
         <item itemvalue="Python.serveur" />
+        <item itemvalue="Python.init_db" />
+        <item itemvalue="Python.init_db" />
       </list>
     </recent_temporary>
   </component>
@@ -175,10 +194,31 @@
       <workItem from="1577646994322" duration="8920000" />
       <workItem from="1577701449177" duration="1616000" />
       <workItem from="1577708725352" duration="6000" />
+      <workItem from="1578898978944" duration="1470000" />
+      <workItem from="1578901246412" duration="196000" />
+      <workItem from="1578901478443" duration="9000" />
+      <workItem from="1578902152173" duration="3522000" />
+      <workItem from="1579113575087" duration="80000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

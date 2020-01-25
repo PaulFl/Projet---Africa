@@ -39,14 +39,18 @@ a.delete:hover {
 }
 
 #map {
-  height: 500px; width: 900px;
+  height: 500px; width: 700px;
+  float: left;
+  padding-right: 20px;
+  margin-right: 20px;
 }
 
 #description {
   border-width: 2px;
   border-style: none none none solid;
   border-color: white;
-  padding-left: 10px;
+  padding-left: 20px;
+  float left;
 }
 
 a {
